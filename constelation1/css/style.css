@@ -1,5 +1,6 @@
     body {
         margin: 0 auto;
+        width: 100%;
     }
 
     header {
@@ -491,8 +492,8 @@
 
     .container-2 img {
         width: 600px;
-        margin-top: 115px;
-        margin-left: 100px;
+        /* margin-top: 115px; */
+        /* margin-left: 100px; */
     }
 
     .list-1 {
@@ -860,6 +861,7 @@
     .grp-6 h4:hover{
         cursor: pointer;
         background-color: #f0f8fe;
+        height: 40px;
     }
 
     #hr-1 {
