@@ -37,9 +37,6 @@
 
 
     }
-
-
-
     .image {
         display: flex;
         flex-flow: row;
@@ -146,10 +143,8 @@
 
     .banner a {
         text-decoration: none;
-        
         color: #FFFFFF;
         width: 94px;
-
         padding-left: 12px;
         padding-top: 0px;
         padding-right: 12px;
@@ -159,7 +154,6 @@
         font-size: 18px;
         margin-top: 30px;
         display: block;
-
         background-color: #3790fc;
         border-width: 5px !important;
     }
@@ -822,7 +816,6 @@
         font-size: 19px;
         font-weight: 700;
         width: 82px;
-        display: block;
         float: right;
         margin-right: 430px;
     }
@@ -843,7 +836,7 @@
 
     .grp-6 {
         display: flex;
-        justify-content: space-evenly;
+        justify-content: center;
         /* margin-left: 215px; */
         /* margin-top: 100px; */
         /* margin-bottom: 100px; */
@@ -911,7 +904,7 @@
     }
 
     .box-1 {
-        width: 300px;
+        width: 20%;
         margin-left: 100px;
     }
 
@@ -953,7 +946,7 @@
     }
 
     .box-2 {
-        width: 300px;
+        width: 20%;
         margin-left: 100px;
         margin-top: 80px;
         line-height: 2em;
@@ -976,7 +969,7 @@
     }
 
     .box-3 {
-        width: 300px;
+        width: 20%;
         margin-left: 100px;
         margin-top: 100px;
         line-height: 2em;
@@ -1005,3 +998,4 @@
     .box-3 i {
         color: #0c6de3;
     }
+    
